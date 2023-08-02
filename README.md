@@ -45,6 +45,6 @@ This information is retained for a period of 30 days for the purposes of analyti
 
 
 ## REMOVAL OF DATA
-Data is not automatically removed, but can be removed upon request via email to bitflip@meetsynthia.co or by opening a helpdesk ticket inside the Synthetic Playground server (discord.gg/meetsynthia).  For security reasons, proof of ownership of the server is required for removing any information pertaining to the discord server in question, although users are free to request removal of their own data at any point in time.
+Data is not automatically removed, but can be removed upon request via email to bitflip@meetsynthia.co or by opening a helpdesk ticket inside the [Synthetic Playground Server](https://discord.gg/meetsynthia).  For security reasons, proof of ownership of the server is required for removing any information pertaining to the discord server in question, although users are free to request removal of their own data at any point in time.
 
 Due to the nature of this bot's design, requesting removal of data will result in the revokation of access to this bot at the user or server level depending on the type of data removal requested
