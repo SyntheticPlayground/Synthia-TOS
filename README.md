@@ -29,9 +29,10 @@ The owner of this bot may not be made liable for individuals breaking these term
 ## USAGE OF DATA
 
 This bot stores data pertaining to all direct interactions for features including but not limited to:
--Chatting with the bot
--Generating images with the bot
--Interacting with buttons created as a result of running a bot command
+
+- Chatting with the bot
+- Generating images with the bot
+- Interacting with buttons created as a result of running a bot command
 
 ## STORED INFORMATION
 
